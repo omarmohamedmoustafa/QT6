@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/task1/">
+    <file alias="Main.qml">/home/omar/qt_projects/task1/Main.qml</file>
+  </qresource>
+</RCC>
+
