@@ -1,0 +1,5 @@
+module four_buttons
+typeinfo appfour_buttons.qmltypes
+prefer :/qt/qml/four_buttons/
+Main 1.0 Main.qml
+

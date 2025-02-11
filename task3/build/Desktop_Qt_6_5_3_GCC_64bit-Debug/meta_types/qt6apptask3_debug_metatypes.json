@@ -1,0 +1,56 @@
+[
+    {
+        "classes": [
+            {
+                "className": "LedController",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "ledState",
+                        "notify": "ledStateChanged",
+                        "read": "ledState",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false,
+                        "write": "setLedState"
+                    }
+                ],
+                "qualifiedClassName": "LedController",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "state",
+                                "type": "bool"
+                            }
+                        ],
+                        "name": "ledStateChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "toggleLed",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "led_controller.h",
+        "outputRevision": 68
+    }
+]

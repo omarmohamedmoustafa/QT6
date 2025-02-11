@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/four_buttons">
+    <file alias="qmldir">/home/omar/qt_projects/Task2/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/four_buttons/qmldir</file>
+  </qresource>
+</RCC>
+

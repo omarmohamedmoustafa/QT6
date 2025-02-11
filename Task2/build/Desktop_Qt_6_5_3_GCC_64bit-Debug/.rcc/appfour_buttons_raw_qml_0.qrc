@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/four_buttons/">
+    <file alias="Main.qml">/home/omar/qt_projects/Task2/Main.qml</file>
+    <file alias="Images.qrc">/home/omar/qt_projects/Task2/Images.qrc</file>
+  </qresource>
+</RCC>
+

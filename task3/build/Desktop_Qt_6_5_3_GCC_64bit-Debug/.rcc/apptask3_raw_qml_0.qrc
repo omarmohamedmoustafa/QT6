@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/task3/">
+    <file alias="Main.qml">/home/omar/qt_projects/task3/Main.qml</file>
+    <file alias="dimmed_led.png">/home/omar/qt_projects/task3/dimmed_led.png</file>
+    <file alias="lit_led.png">/home/omar/qt_projects/task3/lit_led.png</file>
+  </qresource>
+</RCC>
+
